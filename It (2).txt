@@ -1,0 +1,59 @@
+<body>
+
+<div id="header">
+<h1>Giant Panda</h1>
+</div>
+
+<div id="nav">
+Protective measures<br>
+WWF logo<br>
+Population status<br>
+protective measures<br>
+</div>
+
+<div id="section">
+<h1>Protective measures</h1>
+<img src="https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfa4e685e5cb58f8c5494ee7b78?x-bce-process=image/resize,m_lfit,w_235,h_235,limit_1" />
+<p>
+In July 2003, "China Research Center for giant panda protection" put the captive bred giant panda "Xiangxiang" into the artificially controlled natural environment for three years of wild training to improve its wild survival ability. In August 2005, the State Forestry Administration and Sichuan provincial government put the giant panda "Shenglin No.1" rescued in Dujiangyan into Longxi Hongkou nature reserve. The GPS collars that fall off automatically on a regular basis are used to track and monitor the giant panda, so as to further understand and master the wild life habits and activity rules of giant pandas, understand the adaptation of rescue giant pandas to strange environment, and lay a solid foundation for the release of captive individuals Basics. In April 2006, after three years of training, the giant panda "Xiangxiang" was officially put into the pure wild environment of Wolong Nature Reserve. The results of three years of training were tested, and "training instead of releasing" was implemented. This is the first time that China has put captive giant pandas into the wild environment in a planned way, marking a new stage of giant panda protection from strengthening the field rescue and strengthening the artificial captive stage to the wild release stage It's a change.
+</p>
+</div>
+<div id="section">
+<h2>WWWF logo</h2>
+<p>
+As a well-known symbol of WWF, giant panda is widely used in the world and is well known by the world. In 1961, the giant panda "Xixi" went to London Zoo to borrow an exhibition, which caused a scene of empty streets. WWF recognized that an influential organization logo can overcome all the language barriers, so it agreed to use the moving image of giant panda as the symbol of the organization. Since then, the lovely giant panda has become an iconic symbol of the global nature conservation movement. The panda logo of WWF is a registered trademark. No individual or unit is allowed to use this logo without permission. WWF partners are likely to gain access to the logo.
+</p>
+<img src="https://bkimg.cdn.bcebos.com/pic/1ad5ad6eddc451da81cb385e08b74566d01609249466?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5" />
+</div>
+<div id="section">
+</div>
+
+</body>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+</style>
